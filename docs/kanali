@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanali</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>PREMIUM TV</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Početna</a></li>
+                <li><a href="onama.html">O Nama</a></li>
+                <li><a href="kanali.html">Kanali</a></li>
+                <li><a href="filmovi.html">Filmovi</a></li>
+                <li><a href="serije.html">Serije</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Kanali</h2>
+        <p>Pogledajte našu bogatu listu kanala.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 PREMIUM TV</p>
+    </footer>
+</body>
+</html>
